@@ -1,9 +1,4 @@
 # IEI032
-Repositorio para asignatura IEI032 Instituto Santo Tomás
-
-
-IEI032
-
 ==========
 
 Repositorio para asignatura IEI032 Instituto Santo Tomás
@@ -33,4 +28,4 @@ Seleccionar el mazo e iniciar una simulación de juego que permita:
 Barajar mazo
 Robar una mano inicial de 7 cartasRealizar mulligan (debe validar que sea posible hacerlo)
 Robar una carta del mazo
-El código fuente del proyecto debe ser entregado en un "branch" en este mismo repositorio. La gestión del proyecto se realizará (para la seccion diurna) en la asignatura de Ingeniería de Software
+El código fuente del proyecto debe ser entregado en un "branch" en este mismo repositorio.
